@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ra9LgqjNoNBTJ8aWvfbEfx09tTRenqKHpkrp/8aCp1PsEBZcga1AeU3d7GuiDtINzlqud+lEqyjX842c10269A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Wayz\\Desktop\\Shit\\Anitnazim Stealer\\test2\\Test-Anitnazim.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wayz\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.16\\microsoft.aspnetcore.app.runtime.win-x64.6.0.16.nupkg.sha512",
+    "C:\\Users\\Wayz\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.16\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.16.nupkg.sha512",
+    "C:\\Users\\Wayz\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.16\\microsoft.netcore.app.runtime.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
